@@ -13,7 +13,7 @@
 
 - Skills (not programming) : 3D modeling (inventor, catia, etc), simulation (matlab, simulink), drawing (clipstudio)
 
-- Language : Korean, English (little), Japanese (JLPT N2)
+- Language : Korean, English (little), Japanese (JLPT N1)
 
 
 
